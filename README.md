@@ -174,6 +174,5 @@ It really helps.
 
 # 🎮 Play Different. Animate Everything.
 
-Made with ❤️ for Gamers.
-
+Made with ❤️ for Gamers also depolyed to vercel for live prview
 </div>
