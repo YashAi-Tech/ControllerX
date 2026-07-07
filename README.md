@@ -150,15 +150,7 @@ Perfect for:
 
 ---
 
-## 🤝 Contributing
 
-Pull Requests are always welcome.
-
-If you've got crazy animation ideas...
-
-Let's build the coolest controller experience together.
-
----
 
 ## ⭐ Support
 
