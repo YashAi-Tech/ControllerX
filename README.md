@@ -1,170 +1,110 @@
-<div align="center">
+﻿<div align="center">
 
-# 🎮⚡ Controller X ⚡🎮
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,19&height=200&section=header&text=Controller%20X&fontSize=55&fontColor=fff&animation=twinkling&stroke=00D4FF" width="100%" />
+
+![Stars](https://img.shields.io/github/stars/YashAi-Tech/ControllerX?style=for-the-badge&color=FFD700)
+![Forks](https://img.shields.io/github/forks/YashAi-Tech/ControllerX?style=for-the-badge&color=00D4FF)
+![License](https://img.shields.io/badge/License-MIT-00FF88?style=for-the-badge)
+![Made With](https://img.shields.io/badge/Made%20With-HTML%20CSS%20JS-FF6B6B?style=for-the-badge)
 
 ### The Ultimate Animated PS5 Controller Experience
 
-<img src="./assets/controller-banner.gif" alt="Controller X Banner" width="100%"/>
+*A premium animated PS5 controller UI with smooth effects, glowing RGB, 3D motion and gaming vibes.*
 
-![Stars](https://img.shields.io/github/stars/yourusername/controller-x?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/yourusername/controller-x?style=for-the-badge)
-![License](https://img.shields.io/github/license/yourusername/controller-x?style=for-the-badge)
-![Made With](https://img.shields.io/badge/Made%20With-HTML%20CSS%20JS-blue?style=for-the-badge)
-
-### ⚡ A Premium Animated PS5 Controller UI with Smooth Effects, Glowing RGB, 3D Motion & Gaming Vibes.
-
----
+[Live Demo](#) | [Report Bug](https://github.com/YashAi-Tech/ControllerX/issues) | [Request Feature](https://github.com/YashAi-Tech/ControllerX/issues)
 
 </div>
 
-## ✨ Preview
+---
 
-> A futuristic PlayStation 5 controller brought to life with buttery smooth animations.
+## Highlights
+
+<table>
+<tr>
+<td align="center">RGB Lighting<br/>Dynamic color-cycling glow effects</td>
+<td align="center">3D Motion<br/>Interactive tilt and rotate animations</td>
+<td align="center">Smooth FX<br/>CSS-powered particle effects</td>
+<td align="center">Responsive<br/>Looks perfect on any device</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Features
+## Features
 
-✨ Stunning PS5 Controller Design
-
-🎮 Smooth Floating Animation
-
-💎 Glassmorphism UI
-
-🌈 RGB Glow Effects
-
-⚡ Hover Interactions
-
-🌀 Mouse Follow 3D Rotation
-
-🎭 Breathing LED Lights
-
-💥 Click Ripple Animation
-
-🎨 Multiple Controller Themes
-
-🌌 Dynamic Background
-
-📱 Fully Responsive
-
-⚙️ Lightweight
-
-🚀 Super Fast
+- Realistic PS5 Controller â€” Pixel-perfect DualSense recreation
+- Dynamic RGB Effects â€” Color-cycling glow that pulses like real gaming hardware
+- 3D Tilt Animations â€” Mouse-following perspective transforms
+- Smooth Micro-Animations â€” Every button press feels alive
+- Sound Effects â€” Audio feedback on interactions
+- Dark Gaming Theme â€” Immersive dark UI with neon accents
+- Fully Responsive â€” Desktop to mobile, pixel-perfect
+- Zero Dependencies â€” Pure HTML, CSS and JavaScript
 
 ---
 
-## 🎥 Animations
-
-- 🌀 Floating Controller
-- ⚡ RGB Pulse
-- 💎 Neon Glow
-- 🎮 Trigger Hover
-- 🌈 Smooth Theme Switch
-- 🔥 Particle Effects
-- 🎯 Cursor Tracking
-- 🌠 Background Motion
-- ✨ Button Press Animation
-
----
-
-## 📂 Project Structure
-
-```
-Controller-X/
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── sounds/
-│
-├── css/
-├── js/
-├── index.html
-└── README.md
-```
-
----
-
-## 🎨 Themes
-
-- 🔵 Dragon Blue
-- 🔴 Inferno Red
-- 🟢 Emerald Green
-- 🟡 Royal Gold
-- ⚫ Shadow Black
-- 💗 Sakura Pink
-
----
-
-## 🛠 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- GSAP
-- Three.js (Optional)
-- Vite
-
----
-
-## ⚡ Installation
+## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/controller-x.git
+# Clone the repository
+git clone https://github.com/YashAi-Tech/ControllerX.git
 
-cd controller-x
+# Navigate to the project
+cd ControllerX
 
-npm install
+# Open in your browser
+start index.html
+```
 
-npm run dev
+No build tools, no npm install. Just pure web magic.
+
+---
+
+## Project Structure
+
+```
+ControllerX/
+â”œâ”€â”€ assets/
+â”‚   â”œâ”€â”€ controller-banner.gif
+â”‚   â””â”€â”€ screenshots/
+â”œâ”€â”€ index.html           # Main page
+â”œâ”€â”€ styles.css           # All the styling magic
+â”œâ”€â”€ script.js            # Interactivity and animations
+â”œâ”€â”€ CONTRIBUTING.md      # Contribution guidelines
+â”œâ”€â”€ LICENSE              # MIT License
+â””â”€â”€ README.md            # You are here!
 ```
 
 ---
 
-## 🌟 Roadmap
+## Tech Stack
 
-- [x] Animated Controller
-- [x] RGB Lighting
-- [x] Theme Switcher
-- [x] Sound Effects
-- [ ] Multiplayer Controller Showcase
-- [ ] AI Theme Generator
-- [ ] Controller Builder
-- [ ] Mobile Version
+| Technology | Purpose |
+|-----------|---------|
+| HTML5 | Structure and semantics |
+| CSS3 | Animations, RGB effects, 3D transforms |
+| JavaScript | Interactivity and mouse tracking |
 
 ---
 
-## ❤️ Why Controller X?
+## Contributing
 
-Controller X isn't just another controller UI.
+Love gaming UIs? Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-It's designed to look like a next-generation gaming showcase with premium animations, immersive lighting, and futuristic aesthetics.
+## License
 
-Perfect for:
+MIT License â€” See [LICENSE](LICENSE) for details.
 
-- Gaming Landing Pages
-- Portfolio Websites
-- Product Showcase
-- Interactive UI Projects
-- WebGL Experiments
+## Author
 
----
-
-
-
-## ⭐ Support
-
-If you like this project...
-
-Leave a ⭐ on GitHub.
-
-It really helps.
+**Yash Tonde** â€” [@YashAi-Tech](https://github.com/YashAi-Tech)
 
 ---
 
 <div align="center">
 
-# 🎮 Play Different. Animate Everything.
+If you liked this project, give it a star!
 
-Made with ❤️ for Gamers also depolyed to vercel for live prview
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,19&height=100&section=footer" width="100%" />
+
 </div>
