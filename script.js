@@ -122,4 +122,12 @@ prevBtn.addEventListener('click', () => {
     slider();
 });
 
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight') {
+        nextBtn.click();
+    } else if (e.key === 'ArrowLeft') {
+        prevBtn.click();
+    }
+});
+
 createItems();
